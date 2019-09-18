@@ -20,6 +20,7 @@
 		6B194F1B22A7112D001B3151 /* SearchUserBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B194F1A22A7112D001B3151 /* SearchUserBar.swift */; };
 		6B194F1D22A71154001B3151 /* FoundationExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B194F1C22A71154001B3151 /* FoundationExtensions.swift */; };
 		6B194F1F22A71B0F001B3151 /* AnySubscription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B194F1E22A71B0F001B3151 /* AnySubscription.swift */; };
+		93D8918A2332527F00D24B4B /* Readme in Resources */ = {isa = PBXBuildFile; fileRef = 93D891892332527F00D24B4B /* Readme */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		6B194F1A22A7112D001B3151 /* SearchUserBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchUserBar.swift; sourceTree = "<group>"; };
 		6B194F1C22A71154001B3151 /* FoundationExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoundationExtensions.swift; sourceTree = "<group>"; };
 		6B194F1E22A71B0F001B3151 /* AnySubscription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnySubscription.swift; sourceTree = "<group>"; };
+		93D891892332527F00D24B4B /* Readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = Readme; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				6B194F0922A6BA08001B3151 /* LaunchScreen.storyboard */,
 				6B194F0C22A6BA08001B3151 /* Info.plist */,
 				6B194F0622A6BA08001B3151 /* Preview Content */,
+				93D891892332527F00D24B4B /* Readme */,
 			);
 			path = "SwiftUI-Combine-Example";
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93D8918A2332527F00D24B4B /* Readme in Resources */,
 				6B194F0B22A6BA08001B3151 /* LaunchScreen.storyboard in Resources */,
 				6B194F0822A6BA08001B3151 /* Preview Assets.xcassets in Resources */,
 				6B194F0522A6BA08001B3151 /* Assets.xcassets in Resources */,
