@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93D8918E23325CBA00D24B4B /* readme in Resources */ = {isa = PBXBuildFile; fileRef = 93D8918D23325CBA00D24B4B /* readme */; };
 		C313C0B822A6FBAC00FF2AFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C313C0B722A6FBAC00FF2AFB /* AppDelegate.swift */; };
 		C313C0BA22A6FBAC00FF2AFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C313C0B922A6FBAC00FF2AFB /* SceneDelegate.swift */; };
 		C313C0BD22A6FBAC00FF2AFB /* Instagram_SWUI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C313C0BB22A6FBAC00FF2AFB /* Instagram_SWUI.xcdatamodeld */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		93D8918D23325CBA00D24B4B /* readme */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
 		C313C0B422A6FBAC00FF2AFB /* Instagram-SWUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Instagram-SWUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C313C0B722A6FBAC00FF2AFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C313C0B922A6FBAC00FF2AFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 		C313C0AB22A6FBAC00FF2AFB = {
 			isa = PBXGroup;
 			children = (
+				93D8918D23325CBA00D24B4B /* readme */,
 				C313C0B622A6FBAC00FF2AFB /* Instagram-SWUI */,
 				C313C0B522A6FBAC00FF2AFB /* Products */,
 			);
@@ -150,6 +153,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93D8918E23325CBA00D24B4B /* readme in Resources */,
 				C313C0C722A6FBAE00FF2AFB /* LaunchScreen.storyboard in Resources */,
 				C313C0C422A6FBAE00FF2AFB /* Preview Assets.xcassets in Resources */,
 				C313C0C122A6FBAE00FF2AFB /* Assets.xcassets in Resources */,
