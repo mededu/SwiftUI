@@ -41,7 +41,7 @@ struct ContentView : View {
                 .background(Color.blue)
             }
             .cornerRadius(30)
-            .animation(.spring())
+        .animation(.spring())
             .shadow(radius: 30)
     }
 }
